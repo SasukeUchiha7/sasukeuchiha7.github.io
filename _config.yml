@@ -30,15 +30,15 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+    shortname: mydisqus # enter this from your disqus account
+    categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: apilthapa05
-twitter: mytwitter
+twitter: Apil07
 instagram: _apil._
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: Apil Thapa
 # youtube: myyoutube
 # spotify: myspotify
 github: SasukeUchiha7
@@ -47,24 +47,30 @@ github: SasukeUchiha7
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: apil07cr@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    johndoe:
+        name: John Doe
+        bio: A Man who travels the world eating noodles
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter: johndoe
+    jamesfoster:
+        name: James Foster
+        bio: A Man who develops software with coffee
+        external-image: false
+        picture: assets/images/james.jpg
+        twitter: jamesfoster
+    sasuke:
+        name: Apil Thapa
+        bio: A Man who develops software just for fun
+        external-image: false
+        picture: assets/images/prof-me.jpg
+        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -73,11 +79,11 @@ width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-  enabled: false
-  sort_reverse: true # display recent posts first
-  title: ":title" # Changing this will mess up the header display logic
-  per_page: 5
-  permalink: "/:num/" # pagination link that will be appended
+    enabled: false
+    sort_reverse: true # display recent posts first
+    title: ":title" # Changing this will mess up the header display logic
+    per_page: 5
+    permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
@@ -106,38 +112,38 @@ animation: true
 
 # add default values to specific pages or layouts
 defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-      layout: "post"
-    values:
-      # setting all post to not hidden by default,
-      # can be overridden in the front matter for a specific post
-      hidden: false
+    - scope:
+          path: "" # an empty string here means all files in the project
+          layout: "post"
+      values:
+          # setting all post to not hidden by default,
+          # can be overridden in the front matter for a specific post
+          hidden: false
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-admin
-  - jekyll-paginate-v2
+    - jekyll-seo-tag
+    - jekyll-gist
+    - jekyll-feed
+    - jemoji
+    - jekyll-admin
+    - jekyll-paginate-v2
 
 jekyll-mentions:
-  base_url: https://github.com
+    base_url: https://github.com
 
 compress_html:
-  ignore:
-    envs:
-      - development
-      - stage
+    ignore:
+        envs:
+            - development
+            - stage
 
 exclude:
-  [
-    "travis.sh",
-    "README.md",
-    "Gemfile",
-    "Gemfile.lock",
-    "FAQ.md",
-    "node_modules",
-    "vendor",
-  ]
+    [
+        "travis.sh",
+        "README.md",
+        "Gemfile",
+        "Gemfile.lock",
+        "FAQ.md",
+        "node_modules",
+        "vendor",
+    ]
