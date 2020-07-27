@@ -1,7 +1,7 @@
 ---
 title: ":ramen: Indigo, minimalist jekyll theme"
 layout: post
-date: 2016-01-23 22:10
+date: 2017-01-23 22:10
 tag: jekyll
 external-image: false
 image: https://raw.githubusercontent.com/sasukeuchiha7/sasukeuchiha7.github.io/masterassets/images/jekyll-logo-light-solid.png

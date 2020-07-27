@@ -2,9 +2,7 @@
 title: "Minimalistic Dashboard"
 layout: post
 date: 2020-07-27 10:10
-tag:
--Jekyll
--Dashboard
+tag: Jekyll
 projects: true
 category: project
 permalink: minimal-dashboard
