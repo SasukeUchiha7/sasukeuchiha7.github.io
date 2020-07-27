@@ -1,5 +1,5 @@
 ---
-title: "Minimalist Dashboard"
+title: ":gem: Minimalist Dashboard"
 layout: post
 date: 2020-07-27 10:10
 tag: Jekyll
