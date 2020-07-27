@@ -4,7 +4,7 @@ layout: post
 date: 2016-01-23 22:10
 tag: jekyll
 external-image: false
-image: assets/images/jekyll-logo-light-solid.png
+image: https://raw.githubusercontent.com/sasukeuchiha7/sasukeuchiha7.github.io/masterassets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -22,13 +22,13 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergioko
 
 What has inside?
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+-   Gulp
+-   BrowserSync
+-   Stylus
+-   SVG
+-   Travis
+-   No JS
+-   [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
 
 ---
 

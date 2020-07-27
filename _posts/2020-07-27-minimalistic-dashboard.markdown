@@ -1,5 +1,4 @@
 ---
-permalink: minimal-dashboard
 title: "Minimalistic Dashboard"
 layout: post
 date: 2020-07-27 10:10
@@ -8,9 +7,9 @@ tag:
 -Dashboard
 projects: true
 category: project
+permalink: minimal-dashboard
 author: sasuke
 description: "A Basic dashbaord with Jekyll"
-externalLink: false
 ---
 
 ## What is Dashboard?
