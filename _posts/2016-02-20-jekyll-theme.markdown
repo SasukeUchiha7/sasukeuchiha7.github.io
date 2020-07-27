@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":ramen: Jekyll theme"
 layout: post
 date: 2017-01-23 22:10
 tag: jekyll

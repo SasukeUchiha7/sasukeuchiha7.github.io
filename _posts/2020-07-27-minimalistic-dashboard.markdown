@@ -1,13 +1,15 @@
 ---
-title: "Minimalistic Dashboard"
+title: "Minimalist Dashboard"
 layout: post
 date: 2020-07-27 10:10
 tag: Jekyll
 projects: true
+hidden: true
+description: "A Basic dashbaord with Jekyll"
 category: project
 permalink: minimal-dashboard
 author: sasuke
-description: "A Basic dashbaord with Jekyll"
+externalLink: false
 ---
 
 ## What is Dashboard?
