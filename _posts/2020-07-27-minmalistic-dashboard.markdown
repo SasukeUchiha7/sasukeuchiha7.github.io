@@ -6,7 +6,6 @@ tag:
 -Jekyll
 -Dashboard
 projects: true
-hidden: true
 category: project
 author: sasuke
 description: "A Basic dashbaord with Jekyll"
