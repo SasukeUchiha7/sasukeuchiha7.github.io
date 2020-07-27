@@ -5,7 +5,7 @@ date: 2020-07-27 10:10
 tag:
 -Jekyll
 -Dashboard
-project: true
+projects: true
 hidden: true
 category: project
 author: sasuke
