@@ -1,6 +1,6 @@
 # main text of home
 name: Apil Thapa
-bio: A Man who travels the world sipping chai
+bio: A Man who develops software just for fun
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -30,8 +30,8 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-    shortname: mydisqus # enter this from your disqus account
-    categories: [blog, project] # only show disqus for posts that have these categories
+    shortname: #mydisqus # enter this from your disqus account
+    categories: #[blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: apilthapa05
