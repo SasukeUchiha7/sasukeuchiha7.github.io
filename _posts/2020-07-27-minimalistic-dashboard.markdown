@@ -1,4 +1,5 @@
 ---
+permalink: minimal-dashboard
 title: "Minimalistic Dashboard"
 layout: post
 date: 2020-07-27 10:10
