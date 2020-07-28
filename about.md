@@ -5,7 +5,7 @@ layout: page
 
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am currently a 2nd year student in the Computer Science Engineering program at National Institute of Technology Silchar and hopefully will get my BTech degree at the end of 2022. I like to play football to pass my lesiure timea and if not that then just wander around google. And yep, I am a chai-lover. </p>
+<p>I am currently a 2nd year student in the Computer Science Engineering program at National Institute of Technology Silchar and hopefully will get my BTech degree at the end of 2022. I like to play football to pass my leisure time and if not that then just wander around googling something. And yep, I am a chai-lover. </p>
 
 <p>I don't have that much working experiences though hoping to get this section fillup soon.</p>
 
