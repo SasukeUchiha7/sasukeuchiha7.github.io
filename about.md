@@ -27,5 +27,6 @@ layout: page
 
 <ul>
 	<li><a href="https://github.com/SasukeUchiha7/Simple-Project-Using-MEAN-Stack">A MEAN Stack Web Application</a></li>
-	<li><a href="https://github.com/SasukeUchiha7/A-MERN-Web-App">A MERN Stack Web Application</a></li>
+	<li><a href="https://github.com/SasukeUchiha7/A-MERN-Web-App">Students todos using MERN stack</a></li>
+	<li><a href="https://github.com/SasukeUchiha7/A-Javascript-based-game">Dashy-Dice</a></li>
 </ul>
