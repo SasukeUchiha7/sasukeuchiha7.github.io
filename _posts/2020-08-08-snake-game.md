@@ -21,5 +21,5 @@ We all used to play a very famous classical game in our old end devices way back
 <p>So, let's get stared.</p>
 Our program will look like this:
     
-![Snakegame Pic][/assets/images/oss.jpg]
+![Snakegame Pic][./assets/images/oss.jpg]
 <figcaption class ="caption"> Output terminal of our program</figcaption>
