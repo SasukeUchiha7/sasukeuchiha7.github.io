@@ -1,5 +1,5 @@
 ---
-title: ":sanke: A classical Snake Game in C++"
+title: ":snake: A classical Snake Game in C++"
 layout: post
 date: 2020-08-08 20:10
 tag:
