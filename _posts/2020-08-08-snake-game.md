@@ -15,11 +15,11 @@ author: sasuke
 
 ## A snake game
 
-    We all used to play a very famous classical game in our old end devices way back when we were kids.
+We all used to play a very famous classical game in our old end devices way back when we were kids.
 
-   <p> And just to give tribute to that nostalgic feeling we are gonna build a similar game using nothing but simple c++ code.</p>
-   <p>So, let's get stared.</p>
-    Our program will look like this:
+<p> And just to give tribute to that nostalgic feeling we are gonna build a similar game using nothing but simple c++ code.</p>
+<p>So, let's get stared.</p>
+Our program will look like this:
     
 ![Snakegame Pic][/assets/images/oss.jpg]
 <figcaption class ="caption> Output terminal of our program</figcaption>
