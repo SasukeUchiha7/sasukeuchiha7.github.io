@@ -21,7 +21,7 @@ We all used to play a very famous classical game in our old end devices way back
 <p>So, let's get stared.</p>
 Our program will look like this:
     
-<img src="./assets/images/oss.jpg" width=300 height=250/>
+<img src="./assets/images/oss.jpg" width=450 height=300/>
 <figcaption class ="caption"> Output terminal of our program</figcaption>
 
 ## Building
