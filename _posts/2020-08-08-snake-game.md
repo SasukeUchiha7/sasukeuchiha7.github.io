@@ -31,7 +31,7 @@ The code is very much simple. We will be using iostream and conio.h header.
 <p>You may ask why conio.h, but we will understand that when we will go through codes.<br>
 So, your include section look like this.</p>
 {% highlight cpp %}
-#include <bits/stdc++.h>
+#include <iostream>
 #include <conio.h> // for function like khbit() and getch()
 using namespace std;
 {% endhighlight %}
@@ -147,6 +147,8 @@ void moves()
     }
 }
 {% endhighlight %}
+Here we have used built-in functions like _khbit() and _getch() which are avaiable on conio header file.But why?
+Because we need user to input keys without it getting saved in buffer.
 
 Now this will be the last function which will define how the program should work. This function is bit large since it is main function which contain our main algorithm.
 {% highlight cpp %}
