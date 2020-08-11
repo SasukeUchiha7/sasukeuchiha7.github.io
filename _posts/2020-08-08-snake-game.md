@@ -1,5 +1,5 @@
 ---
-title: ":snake: A classical Snake Game in C++"
+title: ":snake: A Classical Snake Game in C++"
 layout: post
 date: 2020-08-08 20:10
 tag:
@@ -21,7 +21,7 @@ We all used to play a very famous classical game in our old end devices way back
 <p>So, let's get stared.</p>
 Our program will look like this:
     
-<img src="./assets/images/oss.jpg"/>
+<img src="./assets/images/oss.jpg" width=200 height=200/>
 <figcaption class ="caption"> Output terminal of our program</figcaption>
 
 ## Building
@@ -49,11 +49,11 @@ int snakeLen;
 // Controls
 enum movements
 {
-STOP = 0,
-LEFT,
-RIGHT,
-UP,
-DOWN
+    STOP = 0,
+    LEFT,
+    RIGHT,
+    UP,
+    DOWN
 };
 movements mov;
 {% endhighlight %}
@@ -64,15 +64,10 @@ The setup function look like this which initialise the parameter of the game.
 void Setup()
 {
     gameover = false;
-
     mov = STOP;
-
     x = width / 2;
-
     y = height / 2;
-
     fruitX = rand() % width; //placing fruit in a random place
-
     fruitY = rand() % height;
     score = 0;
 
