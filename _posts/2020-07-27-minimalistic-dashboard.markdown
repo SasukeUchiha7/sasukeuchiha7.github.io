@@ -18,5 +18,10 @@ Here by Dashboard I mean a website of your own works, progresses and your hobbie
 
 ## What is Jekyll?
 
-Well if you want a minimalistic website template for your work, Jekyll let's you do that
+Well if you want a easy website template for your work, Jekyll let's you do that
 is the easiest way possible.
+
+## How to Use Jekyll?
+
+Head on to https://jekyllrb.com/ for more details.
+
